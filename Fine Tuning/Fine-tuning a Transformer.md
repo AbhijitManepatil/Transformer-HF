@@ -1,6 +1,6 @@
-# [Fine-tuning a model with the Trainer API - Hugging Face Course](https://huggingface.co/course/chapter3/3?fw=pt)
+# [Fine-tuning a model with the Trainer API - Hugging Face](https://huggingface.co/course/chapter3/3?fw=pt)
 
-## Red
+## Fine-tuning a model with the Trainer API
 * Fine-tuning a model with the Trainer API
 
 * Transformers provides a Trainer class to help you fine-tune any of the pretrained models it provides on your dataset.
